@@ -1,5 +1,9 @@
 section {
   background-image: url(/himiway-bikes-SFj3E3uivQo-unsplash.jpg);
+  height: 500px;
   border-radius: 10px;
-  border: solid;
+  border: solid lawngreen 5px;
+  background-size: cover;
+  border-image: space;
+  image-resolution: 480px;
 }
